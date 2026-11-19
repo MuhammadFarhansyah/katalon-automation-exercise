@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_VIEWPRODUCT_02_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2413ce1-e157-4f69-8a75-49ae630eb640</testCaseGuid>
+</TestCaseEntity>

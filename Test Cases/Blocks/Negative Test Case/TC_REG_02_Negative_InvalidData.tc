@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_REG_02_Negative_InvalidData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>35e9f535-557c-420b-9a5d-7bc37e37bd37</testCaseGuid>
+</TestCaseEntity>

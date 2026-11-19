@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_REG_01_Positif_ValidData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2ebdb65-0aa6-4f80-b0dd-5bfc6ccad1e0</testCaseGuid>
+</TestCaseEntity>
